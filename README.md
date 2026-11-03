@@ -9,10 +9,10 @@ A collection of C++ programs developed as part of the Object-Oriented Programmin
 
 | Field        | Details                   |
 | ------------ | ---------------------     |
-| **Name**     | Gangi Reddy Binitha       |
-| **Roll No.** | 461                       |
-| **Division** | D                         |
-| **SRN**      | 01FE23BEC226              |
+| **Name**     | Kavana Gunaga             |
+| **Roll No.** | 530                       |
+| **Division** | E                         |
+| **SRN**      | 01FE23BEC263              |
 | **Semester** | VII                       |
 
 
